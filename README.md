@@ -1,6 +1,3 @@
-Absolutely. For a GitHub project, your `README.md` should explain **what the game is, how to run it, how to play, and what features it has**.
-
-You can copy this directly into a file named `README.md`:
 
 # 🎮 Rock Paper Scissors Game
 
